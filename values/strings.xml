@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic-Tac_Toe</string>
+    <string name="harsh_s_tic_tac_toe_game">Harsh\'s Tic-Tac-Toe Game</string>
+    <string name="image">Grid</string>
+    <string name="teller"><b><i><u>X\'s Turn Tap to Play</u></i></b></string>
+
+</resources>
